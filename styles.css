@@ -1,0 +1,14 @@
+body {background-color:bisque}
+
+h1 {text-align:center}
+
+h2 {text-align:center}
+
+table {border: 1px hsl(0, 20%, 2%);
+margin: auto;
+background-color:aliceblue;
+}
+
+td {text-align:center}
+
+ul {text-align:center}
